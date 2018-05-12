@@ -1,0 +1,29 @@
+_repo: Trench-Ballads-and-Other-Verses_40379
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Garrett, Erwin Clarkson
+    birthdate: 1879
+    deathdate: 1954
+    gutenberg_agent_id: '40581'
+    url: http://www.gutenberg.org/2009/agents/40581
+description: pt. I. Trench ballads.--Pt. II. Pre-war poems.--Pt. III. Other poems.
+gutenberg_issued: '2012-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40379'
+  lccn: '19019877'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'World War, 1914-1918 -- Poetry'
+tableOfContents: Part I. Trench ballads -- Part II. Pre-war poems -- Part III. Other
+  poems.
+title: Trench Ballads, and Other Verses
+url: http://www.gutenberg.org/ebooks/40379
