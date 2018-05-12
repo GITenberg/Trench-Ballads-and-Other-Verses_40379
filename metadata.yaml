@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '40581'
     url: http://www.gutenberg.org/2009/agents/40581
 description: pt. I. Trench ballads.--Pt. II. Pre-war poems.--Pt. III. Other poems.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40379#Trench-Ballads-and-Other-Verses
 gutenberg_issued: '2012-07-31'
 gutenberg_type: Text
 identifiers:
